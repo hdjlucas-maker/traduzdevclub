@@ -1,30 +1,76 @@
-# TraduzDevClub - Lucas Corrêa
+# 🚀 Traduz DevClub - Landing Page
 
-Meu primeiro projeto completo em JavaScript!
+Projeto de uma landing page moderna inspirado na plataforma DevClub, desenvolvido com HTML, CSS e JavaScript.
 
-Este projeto é uma **aplicação web de tradução de textos** com suporte a múltiplos idiomas e reconhecimento de voz no navegador.
+---
 
-## Funcionalidades
-- Tradução de textos em tempo real usando a **API MyMemory**
-- Suporte a diversos idiomas: Inglês, Italiano, Chinês, Espanhol, Alemão
-- Reconhecimento de voz (microfone) para facilitar a entrada de texto
-- Interface limpa, responsiva e intuitiva
+## 💡 Sobre o projeto
 
-## Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript
-- API externa de tradução
+Este projeto foi criado com o objetivo de praticar a construção de páginas modernas e responsivas, simulando uma landing page real de um produto digital.
 
-## Formação e Certificação
-Participei de 4 aulas da **DevClubs com Rodolfo Mori** e recebi **certificado com pontuação máxima**, aplicando os conhecimentos adquiridos diretamente neste projeto.
+A proposta foi desenvolver um layout visual atrativo, organizado e com foco em apresentação profissional.
 
-## Objetivo do projeto
-Praticar:
-- Consumo de API externa
-- Manipulação do DOM
-- Uso de reconhecimento de voz no navegador
-- Estruturação de projeto web profissional
+---
 
-## Como acessar
-O projeto está publicado via GitHub Pages:
+## 🚀 Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## 🌐 Acesse o site
+
+👉 https://hdjlucas-maker.github.io/traduzdevclub/
+
+---
+
+## 🎯 Objetivo
+
+* Praticar desenvolvimento front-end
+* Aprender a estruturar landing pages
+* Melhorar design e organização visual
+* Criar projetos com aparência profissional
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento, foram aplicados conceitos como:
+
+* Estruturação de páginas com HTML
+* Estilização avançada com CSS
+* Organização de layout moderno
+* Criação de interface mais atrativa
+* Publicação com GitHub Pages
+
+👉 Projetos como esse são comuns em formações práticas, onde o aluno aprende construindo aplicações reais ([DevClub][1])
+
+---
+
+## 🖼️ Preview
+
+*(Adicione aqui um print do site para deixar ainda mais profissional)*
+
+---
+
+## 🚀 Próximas melhorias
+
+* Tornar totalmente responsivo (mobile)
+* Adicionar mais interatividade com JavaScript
+* Melhorar animações e efeitos visuais
+* Criar versões mais completas com backend
+
+---
+
+## 👨‍💻 Autor
+
+Lucas Correa
+📍 Rio de Janeiro - Brasil
+
+---
+
+💡 Projeto em constante evolução
+
+[1]: https://devclub.com.br/?utm_source=chatgpt.com "DevClub - Escola de Programação e Tecnologia | Transforme sua Carreira | DevClub"
